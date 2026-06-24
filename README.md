@@ -516,24 +516,6 @@ Built a production-ready AI-powered document analysis platform using Retrieval-A
 
 ---
 
-## LinkedIn Project Description
-
-Excited to share my latest capstone project — an **AI PDF Intelligence Assistant** built with Next.js 15 and Google Gemini AI!
-
-This full-stack application uses **Retrieval-Augmented Generation (RAG)** to let users upload PDFs and chat with their documents naturally. Users can ask questions, get answers with source citations, generate summaries, and extract key insights — all powered by semantic vector search.
-
-**Tech highlights:**
-- Next.js 15 App Router + TypeScript
-- Google Gemini 2.0 Flash for AI generation
-- Custom RAG pipeline with vector embeddings
-- PostgreSQL with Prisma ORM
-- NextAuth for authentication
-- Deployed on Vercel
-
-#NextJS #TypeScript #AI #RAG #GoogleGemini #FullStack #WebDevelopment #Capstone
-
----
-
 ## Future Enhancements
 
 - [ ] ChromaDB/Pinecone integration for production vector storage
